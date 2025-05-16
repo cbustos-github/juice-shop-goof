@@ -14,7 +14,7 @@ This is a vulnerable by design repository for demonstrating Snyk Insights. Do no
 
 ### Fork & Import
 
-Fork this repository and import it in a new or existing org.
+Fork this repository and import it in a new or existing org
 
 ```
 git clone https://github.com/somerset-inc/juice-shop-goof.git
